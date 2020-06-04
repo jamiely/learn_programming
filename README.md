@@ -1,1 +1,1 @@
-[See Wiki](/jamiely/learn_programming/wiki)
+[See Wiki](https://github.com/jamiely/learn_programming/wiki)
